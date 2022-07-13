@@ -1,0 +1,7 @@
+.btn{
+    width: 50px;
+    background-color: blueviolet;
+    border-radius: 15px;
+    border: 2px solid rgb(184, 134, 222);
+    color: white;
+}
